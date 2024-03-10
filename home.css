@@ -1,0 +1,40 @@
+
+
+.left {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.h1{
+ text-align: center;
+ 
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.rigth{
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.topnav a:hover {
+  background-color: #4caf50;
+  color: black;
+}
+
+
+
+
+
+
+
+  

@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  form {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+  }
+  .big-input {
+    width: 300px;
+    height: 150px;
+  }
+  form button[type="submit"] {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
